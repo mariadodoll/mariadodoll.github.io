@@ -1,0 +1,62 @@
+mariadodoll/mariadodoll.github.io
+Bloc Party Fan Page
+
+
+<div class="container-fluid"> <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" <="" div="">
+
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+<style>
+h1 {
+  font-size: 40px;
+  font-family:Comic Sans MS;
+}
+body {
+    background-color:#743749;
+  }
+.smaller-image {
+    width: 500px;
+  }
+h1 {
+  text-align: center;
+}
+h2 {
+  font-size:20px;
+  text-align: center;
+  font-family:Comic Sans MS;
+}
+h3 {
+  font-size:20px;
+  text-align: center;
+  font-family:Comic Sans MS;
+}
+h4 {
+  font-size:20px;
+  text-align: center;
+  font-family:Comic Sans MS;
+}
+</style>
+<!-- Contextual button for Home -->
+<button type="button" class="btn btn-info">Home</button>
+<!-- Contextual button for Info-->
+<button type="button" class="btn btn-info">Info</button>
+<!-- Album information-->
+<button type="button" class="btn btn-info">Albums</button>
+<!-- Watch Videos-->
+<button type="button" class="btn btn-info">Videos</button>
+<h1 style="color:#D81B60"> Bloc Party</h1>
+
+<img class="center-block .img-responsive" width="180" height="180" src="http://www.ticketline.co.uk/images/artist/bloc-party/bloc-party.jpg" alt="Block">
+
+<h2> Bloc Party is an English indie rock band, currently composed of Kele Okereke (lead vocals, rhythm guitar, keyboards, sampler), Russell Lissack (lead guitar, keyboards), Justin Harris (bass guitar, keyboards, saxophones, backing vocals) and Louise Bartle (drums, percussion)</h2>
+      
+<img class="center-block .img-responsive" width="180" height="180" src="http://orig13.deviantart.net/1c2c/f/2009/064/c/e/bloc_party___intimacy_by_ubershinysheep.png" alt="Bloc Party">
+<h3> Bloc Party unexpectedly announced the completion of Intimacy on 18 August 2008 via a webcast and confirmed a release within 60 hours.</h3>
+<img class="center-block .img-responsive" width="180" height="180" src="http://albumart.besteveralbums.com/albumart/album_large_1048_4e2d9279c3a97.jpg" alt="img">
+<h4> Silent Alarm is the debut studio album by British indie rock band Bloc Party. Recorded in Copenhagen and London in mid-2004 with producer Paul Epworth, it was released in February 2005 on Wichita Recordings.</h4>
+<div class="videoWrapperOuter">
+  <div class="videoWrapperInner">
+    <iframe class="center-block" width="654" height="380" src="https://www.youtube.com/embed/CdBt3n1MtFM?list=PL6894816283A5D3DC" frameborder="0" allowfullscreen=""></iframe>
+  </div>
+</div>
+</div>
